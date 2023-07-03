@@ -1,4 +1,31 @@
 baseURL = 'http://ilker.io/'
 languageCode = 'en-us'
-title = 'Ilker Dagli'
+title = 'ILKER DAGLI'
 theme = 'smigle'
+paginate = 5
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[params]
+  name = "Ilker Dagli"
+  description = "ILKER DAGLI"
+  subtitle="Backend Dev & DevOps"
+  author = "Ilker Dagli"
+  brandIconFile = "images/ilkerdagli.png"
+  [[params.social]]
+    name="Twitter"
+    url="https://twitter.com/ilkmc2r"
+  [[params.social]]
+    name="Github"
+    url="https://github.com/ilkerdagli/"
