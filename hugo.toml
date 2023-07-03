@@ -1,0 +1,4 @@
+baseURL = 'http://ilker.io/'
+languageCode = 'en-us'
+title = 'Ilker Dagli'
+theme = 'smigle'
