@@ -1,7 +1,7 @@
 ---
 title: "Howto"
 date: 2023-07-03T21:29:56+03:00
-draft: true
+draft: false
 ---
 
 ## Hello, World!
