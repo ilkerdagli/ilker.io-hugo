@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 paginate = 20
 enableEmoji = true
 # Enable Disqus comments
-# disqusShortname = "yourdiscussshortname"
+# disqusShortname = "ilker-io"
 
 [markup.highlight]
 noClasses = false
@@ -18,11 +18,8 @@ description = "Ilker Dagli's personal website"
 keywords = "blog,developer,devops,personal"
 info = ["Backend Developer", "DevOps"]
 avatarURL = "images/ilkerdagli.png"
-#gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2023
-# Git Commit in Footer, uncomment the line below to enable it
-commit = "https://github.com/luizdepra/hugo-coder/tree/"
 # Right To Left, shift content direction for languagues such as Arabic
 rtl = false
 # Specify light/dark colorscheme
@@ -72,8 +69,8 @@ customRemoteJS = []
 # serverURL = "analytics.example.com" # For cloud-hosting, use provided URL, e.g. example.matomo.cloud
 
 # If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
-# [params.googleTagManager]
-# id = "gid"
+[params.googleTagManager]
+id = "G-5223PF4QK9"
 
 # If you want to use Yandex Metrika(https://metrika.yandex.ru) for analytics, add this section
 # [params.yandexMetrika]
