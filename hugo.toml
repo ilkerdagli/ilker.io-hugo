@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 paginate = 20
 enableEmoji = true
 # Enable Disqus comments
-# disqusShortname = "ilker-io"
+disqusShortname = "ilker-io"
 
 [markup.highlight]
 noClasses = false
