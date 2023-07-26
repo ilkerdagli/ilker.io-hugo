@@ -236,7 +236,6 @@ const project = new codebuild.PipelineProject(this, "CodeBuildProject", {
 repo.grantPull(project)
 {{< / highlight >}}
 
-
 #### CodePipeline for Continuous Deployment
 
 To achieve continuous deployment, I set up a CodePipeline. This pipeline is triggered whenever new commits are pushed to the CodeCommit repository. It performs the following tasks:
@@ -310,7 +309,6 @@ const pipeline = new codepipeline.Pipeline(this, "CodePipeline", {
   ],
 })
 {{< / highlight >}}
-
 
 #### DNS 'A Record'
 
