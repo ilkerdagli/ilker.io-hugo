@@ -1,5 +1,5 @@
 ---
-title: 'Deploying NextJS 14 App to AWS Amplify using CDK'
+title: 'Deploying a Next.js 14 App to AWS Amplify using CDK'
 date: 2024-03-06T23:49:14+03:00
 draft: false
 tags: ['aws', 'cdk', 'amplify', 'nextjs', 'nextjs14', 'github']
